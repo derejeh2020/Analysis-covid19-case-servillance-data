@@ -1,1 +1,2 @@
 # Analysis-covid19-case-servillance-data
+This anlysis is for an individual tableau dashboard project on the COVID-19 case surveillance system database.It includes patient-level data reported to U.S. statess.These deidentified data include demographic characteristics, exposure history, disease severity indicators and outcomes, clinical data, laboratory diagnostic test results.These analysis results are shown on tableou dashboard.
